@@ -6,6 +6,8 @@
 
 [cnblogs(zh,not active)](https://www.cnblogs.com/pokefunc/)
 
+[my blog](https://pokefunc.xyz)
+
 <!--
 **pokefunc/pokefunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
