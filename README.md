@@ -1,6 +1,6 @@
 # Hi👋!This is pokefunc.╰(\*°▽°\*)╯
 
-- 📖10th grade highschool student from ChengDu,China
+- 📖11th grade highschool student from ChengDu,China
 - 💻OIer(2020-Now)
 - ✨Have intersets in ACGN,PCs,keyboards
 
