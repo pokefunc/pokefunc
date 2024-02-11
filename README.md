@@ -1,7 +1,7 @@
 # Hi👋!This is pokefunc.╰(\*°▽°\*)╯
 
 - 📖11th grade highschool student from ChengDu,China
-- 💻OIer(2020-Now)
+- 💻OIer(2020-2024)
 - ✨Have intersets in ACGN,PCs,keyboards
 
 [cnblogs(zh,not active)](https://www.cnblogs.com/pokefunc/)
