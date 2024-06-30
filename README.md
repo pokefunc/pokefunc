@@ -1,10 +1,8 @@
 # Hi👋!This is pokefunc.╰(\*°▽°\*)╯
 
-- 📖11th grade highschool student from ChengDu,China
+- 📖University Student from SCU,majoring in cybersecurity
 - 💻OIer(2020-2024)
 - ✨Have intersets in ACGN,PCs,keyboards
-
-[cnblogs(zh,not active)](https://www.cnblogs.com/pokefunc/)
 
 [my blog](https://pokefunc.xyz)
 
