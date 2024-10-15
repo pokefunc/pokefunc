@@ -1,4 +1,4 @@
-# Hi👋!This is pokefunc.╰(\*°▽°\*)╯
+# Hi👋!pokefunc here.╰(\*°▽°\*)╯
 
 - 📖University Student from SCU,majoring in cybersecurity
 - 💻OIer(2020-2024)
