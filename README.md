@@ -1,8 +1,8 @@
 # Hi👋!pokefunc here.╰(\*°▽°\*)╯
 
 - 📖University Student from SCU,majoring in cybersecurity
-- 💻OIer(2020-2024)
-- ✨Have intersets in ACGN,PCs,keyboards
+- 💻OIer(2020-2024),ACMer(2024-Now)
+- ✨Have intersets in rhythm games,ACGN,PCs,keyboards
 
 [my blog](https://pokefunc.xyz)
 
